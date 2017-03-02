@@ -1,0 +1,6 @@
+bahmni-core:master
+bahmni-reports:master 
+openmrs-module-rulesengine:master 
+bahmni-offline-sync:master 
+openmrs-module-bahmni.ie.apps:master
+bacteriology:master
